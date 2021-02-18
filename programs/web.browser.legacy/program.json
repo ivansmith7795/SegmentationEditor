@@ -1,0 +1,87 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "14b5f293cc9683f8ba571de2a268ed41f1e4cb0c.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/14b5f293cc9683f8ba571de2a268ed41f1e4cb0c.js?meteor_js_resource=true",
+      "size": 6867484,
+      "hash": "14b5f293cc9683f8ba571de2a268ed41f1e4cb0c",
+      "sri": "JIkbrNfjNTHtKUr90MVS46fRIk4Svf5EV9GAt3uOVTjSNUVXMVNk/XQeSYhc4t9EvwxltQDrcwbuDZRMoCaF4A=="
+    },
+    {
+      "path": "14b5f293cc9683f8ba571de2a268ed41f1e4cb0c.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/14b5f293cc9683f8ba571de2a268ed41f1e4cb0c.stats.json?meteor_js_resource=true",
+      "size": 311136,
+      "hash": "a4739f1d5b23de08f0da285fc6fa476346056f3c",
+      "sri": "K+n4hJZ0dG/pMTkwse1qcnbLK16VB//W4xoDMl0NtRcLeWO4rtH5pGDQQaetx/sf2wfvnkE39j4/OrLbCpZqkg=="
+    },
+    {
+      "path": "7a44d6a1c203d89bd4d47aa74ffeac90a37198a7.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7a44d6a1c203d89bd4d47aa74ffeac90a37198a7.css?meteor_css_resource=true",
+      "size": 11842,
+      "hash": "7a44d6a1c203d89bd4d47aa74ffeac90a37198a7",
+      "sri": "ukT0Da6yahSInNBSIfND/f9czIPRAki5g4Fx4UVxMtup1seoRLAcctlsVRyrwNGo1qZTDgbnJgBwu02YWx35RA=="
+    },
+    {
+      "path": "app/SseDataWorker.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/SseDataWorker.js",
+      "size": 6132,
+      "hash": "acc30994b4576cc2cca917d6c8d8c5fb23ff4f18",
+      "sri": null
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 15406,
+      "hash": "157632b29e1083281d211b86f58647200ba9885c",
+      "sri": null
+    },
+    {
+      "path": "app/pcl_horz_large_neg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pcl_horz_large_neg.png",
+      "size": 13773,
+      "hash": "b3070d8e48ff3cfd8efa712b27fc26d11a6fd9ea",
+      "sri": null
+    },
+    {
+      "path": "app/pcl_vert_large_neg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pcl_vert_large_neg.png",
+      "size": 13554,
+      "hash": "5f6bbb66b7fbc06203da43e75872c059415b4e0c",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "6ca81f4748a55d69e0d6e1078a85fc53ec13048b"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "4afe0c7a7d7b5cebb298e5fef12805872772a7de"
+    }
+  ]
+}
